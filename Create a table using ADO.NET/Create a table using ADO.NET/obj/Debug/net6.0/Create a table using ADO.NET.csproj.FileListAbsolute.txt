@@ -1,0 +1,56 @@
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Create a table using ADO.NET.exe
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Create a table using ADO.NET.deps.json
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Create a table using ADO.NET.runtimeconfig.json
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Create a table using ADO.NET.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Create a table using ADO.NET.pdb
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Azure.Core.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Azure.Identity.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\System.Data.SqlClient.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\System.Memory.Data.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\obj\Debug\net6.0\Create a table using ADO.NET.csproj.AssemblyReference.cache
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\obj\Debug\net6.0\Create a table using ADO.NET.GeneratedMSBuildEditorConfig.editorconfig
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\obj\Debug\net6.0\Create a table using ADO.NET.AssemblyInfoInputs.cache
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\obj\Debug\net6.0\Create a table using ADO.NET.AssemblyInfo.cs
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\obj\Debug\net6.0\Create a table using ADO.NET.csproj.CoreCompileInputs.cache
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\obj\Debug\net6.0\Create a table using ADO.NET.csproj.CopyComplete
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\obj\Debug\net6.0\Create a table using ADO.NET.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\obj\Debug\net6.0\refint\Create a table using ADO.NET.dll
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\obj\Debug\net6.0\Create a table using ADO.NET.pdb
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\obj\Debug\net6.0\Create a table using ADO.NET.genruntimeconfig.cache
+G:\ADO DOT NET\Create a table using ADO.NET\Create a table using ADO.NET\obj\Debug\net6.0\ref\Create a table using ADO.NET.dll
