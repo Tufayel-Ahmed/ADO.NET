@@ -27,7 +27,7 @@ namespace Create_a_table_using_ADO.NET
             catch(Exception e)
             {
                Console.WriteLine("Connection do not establish. Because of");
-                Console.WriteLine(e.ToString());
+               Console.WriteLine(e.ToString());
             }
             finally
             {
