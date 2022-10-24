@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\ADO.NET\\Establish a connection to SQL Server database\\Establish a connection to SQL Server database\\Establish a connection to SQL Server database.csproj": {}
+  },
+  "projects": {
+    "G:\\ADO.NET\\Establish a connection to SQL Server database\\Establish a connection to SQL Server database\\Establish a connection to SQL Server database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ADO.NET\\Establish a connection to SQL Server database\\Establish a connection to SQL Server database\\Establish a connection to SQL Server database.csproj",
+        "projectName": "Establish a connection to SQL Server database",
+        "projectPath": "G:\\ADO.NET\\Establish a connection to SQL Server database\\Establish a connection to SQL Server database\\Establish a connection to SQL Server database.csproj",
+        "packagesPath": "C:\\Users\\tufay\\.nuget\\packages\\",
+        "outputPath": "G:\\ADO.NET\\Establish a connection to SQL Server database\\Establish a connection to SQL Server database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tufay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
