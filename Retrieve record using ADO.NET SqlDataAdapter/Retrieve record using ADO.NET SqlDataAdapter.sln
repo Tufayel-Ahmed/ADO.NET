@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retrieve record using ADO.NET SqlDataAdapter", "Retrieve record using ADO.NET SqlDataAdapter\Retrieve record using ADO.NET SqlDataAdapter.csproj", "{CE8F79E5-42F0-4F92-B3B4-B3E4F4F997B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE8F79E5-42F0-4F92-B3B4-B3E4F4F997B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8F79E5-42F0-4F92-B3B4-B3E4F4F997B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8F79E5-42F0-4F92-B3B4-B3E4F4F997B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8F79E5-42F0-4F92-B3B4-B3E4F4F997B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC743E4-A069-45C5-968E-8A0909A48CE4}
+	EndGlobalSection
+EndGlobal
