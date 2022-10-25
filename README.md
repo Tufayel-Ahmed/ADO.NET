@@ -1,3 +1,4 @@
+<div align="justify">
 # ADO.NET
 In this repository, I am going to cover all most all the concepts of ADO.NET such as SQL Server database, working with XML Document, Understanding connected and disconnected architecture, SQL Bulk Copy, SQL Injection, and its Prevention, Transactions in ADO.NET, etc.
 <h3>Introduction to ADO.NET</h3>
@@ -27,3 +28,5 @@ In this repository, I am going to cover all most all the concepts of ADO.NET suc
 <p>6.	GetSchema(): It returns schema information for the data source of this SqlConnection.</p>
 <p>7.	Open(): This method is used to open a database connection.</p>
 
+
+</div>
