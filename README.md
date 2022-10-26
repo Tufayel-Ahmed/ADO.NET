@@ -45,7 +45,7 @@ In this repository, I am going to cover all most all the concepts of ADO.NET suc
 <p>7.	ExecuteNonQuery(): This method executes a Transact-SQL statement against the connection and returns the number of rows affected.</p>
 <p>8.	Prepare(): This method creates a prepared version of the command on an instance of SQL Server.</p>
 <p>9.	ResetCommandTimeout(): This method resets the CommandTimeout property to its default value.</p>
-<h3></h3>SqlDataReader Class
+<h3>SqlDataReader Class</h3>
 <p>The ADO.NET SqlDataReader class in C# is used to read data from the SQL Server database in the most efficient manner. It reads data in the forward-only direction. It means, once it read a record, it will then read the next record, there is no way to go back and read the previous record. The SqlDataReader is connection-oriented. It means it requires an open or active connection to the data source while reading the data. The data is available as long as the connection with the database exists. This class is inherited from DbDataReader class and implements the IDataReader, IDisposable, IDataRecord interface.</p>
 <h3>SqlDataReader Class Properties</h3>
 <p>1.	Connection: It gets the SqlConnection associated with the SqlDataReader.</p>
@@ -72,4 +72,23 @@ In this repository, I am going to cover all most all the concepts of ADO.NET suc
 <p>12.	GetValues(object[] values): It Populates an array of objects with the column values of the current row.</p>
 <p>13.	NextResult(): It advances the data reader to the next result when reading the results of batch Transact-SQL statements.</p>
 <p>14.	Read(): It Advances SqlDataReader to the next record and returns true if there are more rows; otherwise false.</p>
+<h3>SqlDataAdapter Class</h3> 
+<p>The ADO.NET SqlDataAdapter in C# works as a bridge between a DataSet and a data source to retrieve data. The SqlDataAdapter is a class that represents a set of SQL commands and a database connection. It can be used to fill the DataSet and update the data source. The SqlDataAdapter class is a sealed class so it cannot be inherited. Again is inherited from DbDataAdapter class and implement the IDbDataAdapter, IDataAdapter and ICloneable interface.</p>
+
+<h3>SqlDataAdapter Class Constructors</h3>
+<p>1.	SqlDataAdapter(): Initializes a new instance of the SqlDataAdapter class.</p>
+<p>2.	SqlDataAdapter(SqlCommand selectCommand): Initializes a new instance of the SqlDataAdapter class with the specified SqlCommand. </p>
+<p>3.	SqlDataAdapter(string selectCommandText, string selectConnectionString): Initializes a new instance of the SqlDataAdapter class with a the command and a connection string</p>
+<p>4.	SqlDataAdapter(string selectCommandText, SqlConnection selectConnection): Initializes a new instance of the SqlDataAdapter class with a the command and a connection string.</p>
+<h3>SqlDataAdapter Class Methods</h3>
+<p>1.	CloneInternals(): It is used to create a copy of this instance of DataAdapter.</p>
+<p>2.	Dispose(Boolean): It is used to release the unmanaged resources used by the DataAdapter.</p>
+<p>3.	Fill(DataSet): It is used to add rows in the DataSet to match those in the data source.</p>
+<p>4.	FillSchema(DataSet, SchemaType, String, IDataReader): It is used to add a DataTable to the specified DataSet.</p>
+<p>5.	GetFillParameters(): It is used to get the parameters set by the user when executing an SQL SELECT statement.</p>
+<p>6.	ResetFillLoadOption(): It is used to reset FillLoadOption to its default state.</p>
+<p>7.	ShouldSerializeAcceptChangesDuringFill(): It determines whether the</p>
+<p>8.	ShouldSerializeFillLoadOption(): It determines whether the FillLoadOption property should be persisted or not.</p>
+<p>9.	ShouldSerializeTableMappings(): It determines whether one or more DataTableMapping objects exist or not.</p>
+<p>10.	Update(DataSet): It is used to call the respective INSERT, UPDATE, or DELETE statements.</p>
 </div>
