@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Call a stored procedure with an input parameter", "Call a stored procedure with an input parameter\Call a stored procedure with an input parameter.csproj", "{77529803-3219-4875-9128-1B41ED5A8B37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77529803-3219-4875-9128-1B41ED5A8B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77529803-3219-4875-9128-1B41ED5A8B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77529803-3219-4875-9128-1B41ED5A8B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77529803-3219-4875-9128-1B41ED5A8B37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AB06870-3ACC-4B67-A3D2-8A7D875A6E46}
+	EndGlobalSection
+EndGlobal
