@@ -1,0 +1,51 @@
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Single Database Transaction using ADO.NET.exe
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Single Database Transaction using ADO.NET.dll.config
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Single Database Transaction using ADO.NET.deps.json
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Single Database Transaction using ADO.NET.runtimeconfig.json
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Single Database Transaction using ADO.NET.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Single Database Transaction using ADO.NET.pdb
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Azure.Core.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Azure.Identity.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\System.Memory.Data.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\obj\Debug\net6.0\Single Database Transaction using ADO.NET.csproj.AssemblyReference.cache
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\obj\Debug\net6.0\Single Database Transaction using ADO.NET.GeneratedMSBuildEditorConfig.editorconfig
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\obj\Debug\net6.0\Single Database Transaction using ADO.NET.AssemblyInfoInputs.cache
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\obj\Debug\net6.0\Single Database Transaction using ADO.NET.AssemblyInfo.cs
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\obj\Debug\net6.0\Single Database Transaction using ADO.NET.csproj.CoreCompileInputs.cache
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\obj\Debug\net6.0\Single Database Transaction using ADO.NET.csproj.CopyComplete
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\obj\Debug\net6.0\Single Database Transaction using ADO.NET.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\obj\Debug\net6.0\refint\Single Database Transaction using ADO.NET.dll
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\obj\Debug\net6.0\Single Database Transaction using ADO.NET.pdb
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\obj\Debug\net6.0\Single Database Transaction using ADO.NET.genruntimeconfig.cache
+G:\ADO.NET\Single Database Transaction using ADO.NET\Single Database Transaction using ADO.NET\obj\Debug\net6.0\ref\Single Database Transaction using ADO.NET.dll
